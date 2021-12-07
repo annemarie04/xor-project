@@ -8,3 +8,4 @@ Partea1:
 python partea1 input output parole.txt
 
 Partea2:
+python partea2 output parole.txt
